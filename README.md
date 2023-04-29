@@ -26,13 +26,13 @@
 ## Course Resources
 
 - jupyternotebooks of each chapter
-  - [assets/l2-guidelines.ipynb](./assets/2-Guidelines/l2-guidelines.ipynb)
-  - [assets/3-Iterative/l3-iterative-prompt-development.ipynb](./assets/3-Iterative/l3-iterative-prompt-development.ipynb)
-  - [assets/4-Summarizing/l4-summarizing.ipynb](assets/4-Summarizing/l4-summarizing.ipynb)
-  - [assets/5-Inferring/l5-inferring.ipynb](assets/5-Inferring/l5-inferring.ipynb)
-  - [assets/6-Transforming/l6-transforming.ipynb](assets/6-Transforming/l6-transforming.ipynb)
-  - [assets/7-Expanding/l7-expanding.ipynb](assets/7-Expanding/l7-expanding.ipynb)
-  - [assets/8-Chatbot/l8-chatbot.ipynb](assets/8-Chatbot/l8-chatbot.ipynb)
+  - [assets/2-Guidelines/l2-guidelines.ipynb](./assets/2-Guidelines/l2-guidelines.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MIBlue119/chatGPT_prompt_engineering_for_developers_resources/blob/master/assets/2-Guidelines/l2-guidelines.ipynb)
+  - [assets/3-Iterative/l3-iterative-prompt-development.ipynb](./assets/3-Iterative/l3-iterative-prompt-development.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MIBlue119/chatGPT_prompt_engineering_for_developers_resources/blob/master/assets/3-Iterative/l3-iterative-prompt-development.ipynb)
+  - [assets/4-Summarizing/l4-summarizing.ipynb](assets/4-Summarizing/l4-summarizing.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MIBlue119/chatGPT_prompt_engineering_for_developers_resources/blob/master/assets/4-Summarizing/l4-summarizing.ipynb)
+  - [assets/5-Inferring/l5-inferring.ipynb](assets/5-Inferring/l5-inferring.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MIBlue119/chatGPT_prompt_engineering_for_developers_resources/blob/master/assets/5-Inferring/l5-inferring.ipynb)
+  - [assets/6-Transforming/l6-transforming.ipynb](assets/6-Transforming/l6-transforming.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MIBlue119/chatGPT_prompt_engineering_for_developers_resources/blob/master/assets/6-Transforming/l6-transforming.ipynb)
+  - [assets/7-Expanding/l7-expanding.ipynb](assets/7-Expanding/l7-expanding.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MIBlue119/chatGPT_prompt_engineering_for_developers_resources/blob/master/assets/7-Expanding/l7-expanding.ipynb)
+  - [assets/8-Chatbot/l8-chatbot.ipynb](assets/8-Chatbot/l8-chatbot.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MIBlue119/chatGPT_prompt_engineering_for_developers_resources/blob/master/assets/8-Chatbot/l8-chatbot.ipynb)
 - traditional chinese notes: [https://sunset-polka-3bd.notion.site/Note-ChatGPT-Prompt-Engineering-for-Developers-beb31175898647c3b2e10d58fc065c3c](https://sunset-polka-3bd.notion.site/Note-ChatGPT-Prompt-Engineering-for-Developers-beb31175898647c3b2e10d58fc065c3c)
 
 ## Further Reading
